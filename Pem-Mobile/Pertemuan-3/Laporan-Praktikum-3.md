@@ -170,3 +170,4 @@ Langkah 12: Verifikasi & Pengujian
 10. Tekan tombol "📥 Download CV (PDF)" — efek visual tombol berubah warna saat ditekan dan Alert "CV sedang diunduh..." muncul
 11. Tap salah satu tombol sosial media (GitHub, LinkedIn, YouTube) — Alert menampilkan URL yang sesuai
 12. Konfirmasi Bukti Demo Aplikasi (GIF)
+![alt text](<CV app.gif>)
