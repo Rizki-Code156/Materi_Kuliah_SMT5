@@ -35,7 +35,8 @@ Setelah menyelesaikan modul praktikum ini, mahasiswa diharapkan mampu:
     - npx expo start --web
     <img src="image-4.png" width=50% />
 
-5. LATIHAN PERTEMUAN-2 Tambahkan text berupa
+5. LATIHAN PERTEMUAN-2 
+    - Tambahkan text berupa
     - Nama Lengkap
     - Tempat Tanggal Lahir
     - Cita-Cita
